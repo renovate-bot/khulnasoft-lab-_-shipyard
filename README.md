@@ -6,7 +6,7 @@ A tool to manage Ephemeral Environments on the Shipyard platform.
 
 - **Linux and macOS**
     ```
-    curl https://www.shipyard.sh/install.sh | bash
+    curl https://www.shipyard.khulnasoft.com/install.sh | bash
     ```
 - **Windows**
     - Navigate to [releases page](https://github.com/khulnasoft-lab/shipyard/releases) and download the executable.
