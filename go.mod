@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/shipyard
 go 1.21
 
 require (
-	github.com/agnivade/levenshtein v1.1.1
+	github.com/agnivade/levenshtein v1.2.1
 	github.com/docker/cli v24.0.8+incompatible
 	github.com/fatih/color v1.15.0
 	github.com/google/go-cmp v0.5.9
